@@ -8,3 +8,4 @@ Readme:
 1. Put a video URL in Video Link TextBox
 2. Put a number of likes (maximum 100)
 3. Push the "Start Boost" button to start the madnness (scary scenes) :)
+s
